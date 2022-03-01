@@ -1,0 +1,14 @@
+#cheetahs,
+#elephants,
+#foxes {
+  display: none;
+}
+
+#click {
+  color: #0088cc;
+  cursor: pointer;
+}
+
+#click:hover {
+  text-decoration: underline;
+}
